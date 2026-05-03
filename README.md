@@ -1,36 +1,44 @@
-# 🎓 Student Performance Predictor (ML Project)
+# 🎓 Student Performance Predictor
 
-A machine learning project that predicts student exam scores based on:
-- Study hours
-- Attendance rate
-- Sleep hours
+A Machine Learning + Streamlit web app that predicts a student's exam score based on study habits.
 
 ---
 
-## 🚀 Problem Statement
-Students' academic performance is influenced by daily habits. This project predicts exam scores using a trained ML model.
+## 🚀 Demo
+
+![App Demo](images/demo.png)
 
 ---
 
-## 🧠 Solution
-We built a regression model using **Random Forest Regressor** to predict student scores.
+## 🧠 Features
+- Student score prediction
+- Machine Learning model (Random Forest)
+- Real-time Streamlit UI
+- Data preprocessing pipeline
+- Model saving with Joblib
 
 ---
 
-## 📊 Features Used
+## 📊 Input Features
 - Study Hours
-- Attendance
+- Attendance (%)
 - Sleep Hours
 
 ---
 
-## ⚙️ Tech Stack
-- Python
-- pandas
-- numpy
-- scikit-learn
-- joblib
+## 🎯 Output
+Predicted exam score (0–100)
 
 ---
 
-## 📁 Project Structure
+## 🛠 Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Joblib
+
+---
+
+## 📦 Project Structure
