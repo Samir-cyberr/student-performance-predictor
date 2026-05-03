@@ -4,12 +4,6 @@ A Machine Learning + Streamlit web app that predicts a student's exam score base
 
 ---
 
-## 🚀 Demo
-
-![App Demo](images/demo.png)
-
----
-
 ## 🧠 Features
 - Student score prediction
 - Machine Learning model (Random Forest)
